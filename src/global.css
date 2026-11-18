@@ -1,0 +1,22 @@
+:root {
+  --font-display:
+    Spline Sans, Inter, ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol, Noto Color Emoji;
+  --font-mono:
+    ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+  --font-rounded: 'SF Pro Rounded', 'Hiragino Maru Gothic ProN', Meiryo, 'MS PGothic', sans-serif;
+  --font-serif: Georgia, 'Times New Roman', serif;
+}
+
+.leaflet-tooltip.rotulo-rota {
+  padding: 1px 6px;
+  border: 0;
+  border-radius: 6px;
+  color: #0c2c4a;
+  font-size: 12px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
+}
+
+.leaflet-tooltip.rotulo-rota::before {
+  display: none;
+}

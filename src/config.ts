@@ -1,0 +1,12 @@
+export const THINGSPEAK_CHANNEL_ID = process.env.EXPO_PUBLIC_THINGSPEAK_CHANNEL_ID ?? '';
+export const THINGSPEAK_READ_API_KEY = process.env.EXPO_PUBLIC_THINGSPEAK_READ_API_KEY ?? '';
+
+export const THINGSPEAK_RESULTADOS = 20;
+
+export const INTERVALO_ATUALIZACAO_MS = 20_000;
+
+export const SENSOR_IOT_ID = 'SP-TIETE-01';
+
+export const RAIO_ALERTA_METROS = 1500;
+
+export const JANELA_SAIDA_MINUTOS = 120;
