@@ -16,7 +16,14 @@
 | **Indicador de impacto** | Nº de alertas emitidos antes do horário de saída para rotas com ponto em Atenção/Alagado; % de usuários que mudaram horário ou caminho após um alerta (medido por pesquisa com os usuários em um piloto) |
 | **ODS conectados** | **ODS 11** – Cidades e comunidades sustentáveis (meta 11.5: reduzir o impacto de desastres sobre as pessoas). **ODS 13** – Ação contra a mudança global do clima (meta 13.1: resiliência a eventos climáticos extremos). |
 
-> **Escuta do cidadão:** _registrar aqui a conversa com uma pessoa real que convive com o problema (quem é, qual trajeto faz, o que faz hoje quando chove, o que atrapalha)._
+> **Escuta do cidadão:** Em novembro de 2026, conversamos com uma pessoa que trabalha presencialmente, todos os dias, perto do Morumbi, em São Paulo, e faz o trajeto de metrô e ônibus.
+>
+> - **O que acontece:** já enfrentou alagamentos várias vezes de surpresa, sem saber que o caminho iria alagar.
+> - **Consequência:** teve grandes atrasos para chegar ao trabalho e, em algumas vezes, não conseguiu chegar.
+> - **O que faz hoje:** quando chove, há pouco o que fazer. No máximo, procura notícias, que nunca informam os lugares exatos.
+> - **O que atrapalha:** não ter como saber se o caminho estará alagado.
+> - **O que ajudaria:** receber um aviso, para poder procurar uma rota alternativa.
+> - **O que isso reforça no projeto:** alertas ligados ao trajeto de cada pessoa, com o ponto de risco identificado e antes da hora de sair.
 
 ## Integrantes
 
