@@ -37,7 +37,7 @@
 
 ## Vídeo do app
 
-_preencher com o link do vídeo (até 3 minutos)_
+https://youtu.be/9WgAAE6_zEI
 
 ## Telas
 
